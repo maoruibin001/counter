@@ -1,0 +1,36 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoruibin001/counter.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "counter"
+  ],
+  "author": "maoruibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maoruibin001/counter/issues"
+  },
+  "homepage": "https://github.com/maoruibin001/counter#readme",
+  "devDependencies": {
+    "react-scripts": "^1.0.10"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2"
+  }
+}
